@@ -115,6 +115,23 @@ python main.py
 
 ---
 
+## 📦 Model Access
+
+The trained model (`asl_model.pkl`) is not included in this repository.
+
+This project requires the trained model file to run full real-time prediction and speech output.
+
+If you would like access to the model for testing, learning, or running the complete project, please contact:
+
+📧 moazzinhussain8@gmail.com
+
+Please include:
+- Your name
+- Purpose of use
+- Project or learning context
+
+---
+
 ## ⚠ Notes
 
 Large trained model files are not included in this repository.
