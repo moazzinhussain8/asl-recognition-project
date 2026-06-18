@@ -1,0 +1,4 @@
+__pycache__/
+.vscode/
+
+asl_model.pkl
